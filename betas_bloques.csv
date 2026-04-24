@@ -1,5 +1,0 @@
-bloque,beta_real,positivo,transformacion
-bloque_digital_perf,10.45235502902968,True,log1p(adstock_semanal)
-bloque_digital_awareness,8.720041406173962,True,log1p(adstock_semanal)
-bloque_offline,8.253389312949505,True,log1p(adstock_semanal)
-bloque_crm,2.8544073943079775,True,log1p(adstock_semanal)
